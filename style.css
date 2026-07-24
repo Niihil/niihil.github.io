@@ -1385,6 +1385,7 @@ ul, ol {
 .animate-in-delay-1 { animation-delay: 0.1s; }
 .animate-in-delay-2 { animation-delay: 0.2s; }
 .animate-in-delay-3 { animation-delay: 0.3s; }
+.animate-in-delay-4 { animation-delay: 0.4s; }
 
 /* ============================================
    Empty State
